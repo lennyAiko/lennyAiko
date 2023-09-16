@@ -1,8 +1,4 @@
 <!-- ### Hi there 👋, I'm Lennox -->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlkNjZhMmVhMTlkMmZiMmVjNjRmODRlMjI4ZTI2MTZjYjdiZmNlOSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
- </div>
  
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lennoxcharles/">
@@ -12,20 +8,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
- 
- <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
 
 ---
 ### :man_technologist: About Me :
 
-I am a Backend / API Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Full-stack developer from Nigeria.
 
 - :telescope: I’m working designing, securing and managing APIs and building backend services.
 
