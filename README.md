@@ -7,6 +7,9 @@
   <a href="https://twitter.com/c_lennyx">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://clenny.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge" alt="Portfolio Badge"/>
+  </a>
  </div>
 
 ---
