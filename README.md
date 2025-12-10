@@ -29,8 +29,7 @@ I am a web developer from Nigeria.
 I'm building cool stuff in public. Check out my projects:
 
 -   **[Octavoice](https://octavoice.app)**: My first launched SaaS product to text script to multiple voice audio.
-<br />
 
--   **[ConvertAudio](https://convert.octavoice.app)**: Introducing ConvertAudio — a completely free tool for converting unlimited audio with your privacy in mind, so no uploading!
+-   **[ConvertAudio](https://convertaudio.octavoice.app/)**: Introducing ConvertAudio — a completely free tool for converting unlimited audio with your privacy in mind, so no uploading!
 
 <br />
