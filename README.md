@@ -22,3 +22,17 @@ I am a web developer from Nigeria.
 - :seedling: I write Technical articles and documentation.
 
 - :zap: In my free time, I solve problems on different platforms and read tech articles and books.
+
+
+### 🚀 My SaaS Journey
+
+I'm building cool stuff in public. Check out my projects:
+
+-   **[Octavoice](https://octavoice.app)**: My first launched SaaS product to text script to multiple voice audio.
+<br />
+
+<iframe style="border: none;" src="https://cards.producthunt.com/cards/products/1134859" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+-   **[ConvertAudio](https://convert.octavoice.app)**: Introducing ConvertAudio — a completely free tool for converting unlimited audio with your privacy in mind, so no uploading!
+
+<br />
