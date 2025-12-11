@@ -28,8 +28,8 @@ I am a web developer from Nigeria.
 
 I'm building cool stuff in public. Check out my projects:
 
--   **[Octavoice](https://octavoice.app)**: My first launched SaaS product to text script to multiple voice audio.
+-   **[Octavoice](https://octavoice.app)**: Turn any script into multi-voice audio in minutes. Perfect for podcasts, audiobooks, e-learning, and storytelling—all without a recording studio.
 
--   **[ConvertAudio](https://convertaudio.octavoice.app/)**: Introducing ConvertAudio — a completely free tool for converting unlimited audio with your privacy in mind, so no uploading!
+-   **[ConvertAudio](https://convertaudio.octavoice.app/)**: Convert Audio Files Instantly in Browser Professional-grade audio extraction and conversion. Transform Video & Audio files to MP3, WAV, and AIFF without your data ever leaving your device.
 
 <br />
